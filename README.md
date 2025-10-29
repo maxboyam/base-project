@@ -48,7 +48,9 @@ npx hardhat compile
 npm run dev
 
 ---
-##Base Mainnet
+
+## Base Mainnet
+
 ```bash
 Network Name: Base Mainnet
 RPC URL: https://mainnet.base.org
@@ -57,7 +59,9 @@ Currency Symbol: ETH
 Block Explorer: https://basescan.org
 
 ---
-##Base Sepolia
+
+## Base Sepolia
+
 ```bash
 Network Name: Base Sepolia
 RPC URL: https://sepolia.base.org
@@ -66,7 +70,9 @@ Currency Symbol: ETH
 Block Explorer: https://sepolia.basescan.org
 
 ---
+
 ##🧱 Deployment (Hardhat Example)
+
 ```bash
 npx hardhat run scripts/deploy.js --network base
 
